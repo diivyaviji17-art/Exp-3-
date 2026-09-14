@@ -41,18 +41,11 @@ ACTIVITY DIAGRAM :
 
 COMMUNICATION DIAGRAM :
 
-<img width="1062" height="910" alt="Screenshot 2026-09-14 120743" src="https://github.com/user-attachments/assets/b648fef8-33d5-4c3e-8eff-36227563eaea" />
+<img width="720" height="612" alt="Screenshot 2026-09-14 121048" src="https://github.com/user-attachments/assets/92a8ce02-348d-4252-a040-fc313ec0e419" />
 
 
 PACKAGE DIAGRAM :
-
-<img width="1112" height="712" alt="Screenshot 2026-09-14 120755" src="https://github.com/user-attachments/assets/089c274a-771c-4806-8dfc-ef9852759756" />
-
-
-
-
-
-
+<img width="720" height="612" alt="Screenshot 2026-09-14 121048" src="https://github.com/user-attachments/assets/338b26f8-cdd1-4770-87b0-2dbb65f24eb3" />
 
 # RESULT:
 Thus, the Railway Management System was successfully analyzed and designed. The Software Requirements Specification (SRS) was prepared, and the required UML diagrams were developed to represent the system's structure and behavior.
